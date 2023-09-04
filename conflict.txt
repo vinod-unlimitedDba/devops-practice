@@ -1,2 +1,1 @@
-try to resolve the conflict
-
+try to create conflict
